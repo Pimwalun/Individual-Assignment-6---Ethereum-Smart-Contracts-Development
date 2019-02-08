@@ -1,0 +1,1 @@
+clip 1-2 I screen captures in a pdf file.
